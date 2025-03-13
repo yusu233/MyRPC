@@ -1,0 +1,4 @@
+kryo=com.pwc.serialize.kryo.KryoSerializeFactory
+jdk=com.pwc.serialize.jdk.JDKSerializeFactory
+hessian=com.pwc.serialize.hessian.HessianSerializeFactory
+fastJson=com.pwc.serialize.fastjson.FastJsonSerializeFactory

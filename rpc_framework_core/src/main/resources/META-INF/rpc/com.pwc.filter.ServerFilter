@@ -1,0 +1,2 @@
+serverLogFilterImpl=com.pwc.filter.server.ServerLogFilterImpl
+serverTokenFilterImpl=com.pwc.filter.server.ServerTokenFilterImpl
